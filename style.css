@@ -1,0 +1,172 @@
+#bg {
+    -fx-background-color: #514d52;
+    background-color: #514d52; 
+}
+
+#Alkali_Metals {
+    -fx-background-color: orange;
+    -fx-text-fill: #fff; 
+    -fx-border-color: #000;
+    background-color: orange; 
+    border-color: #000; 
+}
+
+#Alkali_Metals:hover {
+    -fx-opacity: 0.7;
+    -fx-background-color: red;
+    -fx-border-radius: 50%;
+    opacity: 0.7; 
+    border-radius: 50%; 
+    background-color: #ff0000;
+}
+
+#Alkaline_Earth_Metals {
+    -fx-background-color: yellow;
+    -fx-text-fill: #fff;
+    -fx-border-color: #000;
+    background-color: yellow;
+    border-color: #000;
+}
+
+#Alkaline_Earth_Metals:hover {
+    -fx-opacity: 0.7;
+    -fx-background-color: red;
+    -fx-border-radius: 50%;
+    opacity: 0.7;
+    border-radius: 50%;
+    background-color: #ff0000;
+}
+
+#Transition_Metals {
+    -fx-background-color: #b87035;
+    -fx-text-fill: #fff;
+    -fx-border-color: #000;
+    background-color: #b87035;
+    border-color: #000;
+}
+
+#Transition_Metals:hover {
+    -fx-opacity: 0.7;
+    -fx-background-color: red;
+    -fx-border-radius: 50%;
+    opacity: 0.7;
+    border-radius: 50%;
+    background-color: #ff0000;
+}
+
+#Post_Transition_Metals {
+    -fx-background-color: #4dd6bb;
+    -fx-text-fill: #fff;
+    -fx-border-color: #000;
+    background-color: #4dd6bb;
+    border-color: #000;
+}
+
+#Post_Transition_Metals:hover {
+    -fx-opacity: 0.7;
+    -fx-background-color: red;
+    background-color: #ff0000;
+    -fx-border-radius: 50%;
+    opacity: 0.7;
+    border-radius: 50%;
+}
+
+#Lanthanoids {
+    -fx-background-color: #eaa6ed;
+    -fx-text-fill: #fff;
+    -fx-border-color: #000;
+    background-color: #eaa6ed;
+    border-color: #000;
+}
+
+#Lanthanoids:hover {
+    -fx-opacity: 0.7;
+    -fx-background-color: red;
+    -fx-border-radius: 50%;
+    opacity: 0.7;
+    border-radius: 50%;
+    background-color: #ff0000;
+}
+
+#Actinoids {
+    -fx-background-color: #bb19c2;
+    -fx-text-fill: #fff;
+    -fx-border-color: #000;
+    background-color: #bb19c2;
+    border-color: #000;
+}
+
+#Actinoids:hover {
+    -fx-opacity: 0.7;
+    -fx-background-color: red;
+    -fx-border-radius: 50%;
+    opacity: 0.7;
+    border-radius: 50%;
+    background-color: #ff0000;
+    
+
+}
+
+#Other_Non_Metals {
+    -fx-background-color: #3ff235;
+    -fx-border-color: #000;
+    background-color: #3ff235;
+    border-color: #000;
+}
+
+#Other_Non_Metals:hover {
+    -fx-opacity: 0.7;
+    -fx-background-color: red;
+    -fx-border-radius: 50%;
+    opacity: 0.7;
+    border-radius: 50%;
+    background-color: #ff0000; 
+}
+
+#Metalloids {
+    -fx-background-color: seagreen;
+    -fx-text-fill: #fff;
+    -fx-border-color: #000;
+    background-color: seagreen;
+    border-color: #000;
+}
+
+#Metalloids:hover {
+    -fx-opacity: 0.7;
+    -fx-background-color: red;
+    -fx-border-radius: 50%;
+    opacity: 0.7;
+    border-radius: 50%;
+    background-color: #ff0000; 
+}
+
+#Noble_Gases {
+    -fx-background-color: #7daeff;
+    -fx-border-color: #000;
+    background-color: #7daeff;
+    border-color: #000;
+}
+
+#Noble_Gases:hover {
+    -fx-opacity: 0.7;
+    -fx-background-color: red;
+    -fx-border-radius: 50%;
+    opacity: 0.7;
+    border-radius: 50%;
+    background-color: #ff0000; 
+}
+
+#Unknown {
+    -fx-border-color: #000;
+    border-color: #000;
+}
+
+#Unknown:hover {
+    -fx-opacity: 0.7;
+    -fx-background-color: red;
+    -fx-border-radius: 50%;
+    opacity: 0.7;
+    border-radius: 50%;
+    background-color: #ff0000; 
+}
+
